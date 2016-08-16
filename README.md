@@ -33,11 +33,15 @@ A bunch of links for Engineers by Engineers.
 * [locality sensitive hashing](http://www.mit.edu/~andoni/LSH)
 * [k-nearest neighbor graph](http://www.cs.princeton.edu/cass/papers/www11.pdf)
 
-### Books
+### Art and Team Books
 
-* [12MM$ Stuffed Shark](http://www.amazon.com/The-Million-Stuffed-Shark-Contemporary/dp/0230620590)
-* [The Supermodel and the Brillo Box](http://www.amazon.com/The-Supermodel-Brillo-Box-Contemporary/dp/1137279087)
-* [Tribal Leadership](http://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251321)
+* [12mm$ stuffed shark](http://www.amazon.com/The-Million-Stuffed-Shark-Contemporary/dp/0230620590)
+* [the supermodel and the brillo box](http://www.amazon.com/The-Supermodel-Brillo-Box-Contemporary/dp/1137279087)
+* [tribal leadership](http://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251321)
+
+### Work with Us
+
+* [open engineering jobs](https://www.artsy.net/jobs#engineering)
 
 ## License
 
