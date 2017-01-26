@@ -42,6 +42,7 @@ A bunch of links for Engineers by Engineers.
 ### Work with Us
 
 * [open engineering jobs](https://www.artsy.net/jobs#engineering)
+* [lunch and learn](meta/lunch_and_learn.md)
 
 ## License
 
