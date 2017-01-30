@@ -8,6 +8,14 @@ Our format is pretty simple, every Thursday we have an hour slot at 12 (NYC time
 
 > Every Thursday, we do a Lunch-and-Learn session. Historically, we mostly showed off tech we use internally. But over about a year, most of our tech stack has been presented this way, so we also bring in engineers we know at other companies to share what they’re working on.
 
+So far, from external contributors we've had:
+
+* How Buffer does Transparency by [Katie Womersley](http://twitter.com/‪katie_wormers‬)
+* How I got started in OSS by [Henry Zhu](http://twitter.com/‪left_pad) of Babel/Behance
+* A D3 Overview by [Amit Schechter](http://twitter.com/‪meetamit‬) of TWO-N
+* How Zalado Works by [Laurita Apple](http://twitter.com/‪LauritaApplez‬) and [Alexander Kops](http://twitter.com/‪koze‬)
+* The ODEN Tech Stack by [@ODEN_tech](http://twitter.com/‪ODEN_tech)
+* Creating a Research Dept in a Startup by [Joe Carrafa](http://twitter.com/‪joetastic‬)
 
 ---
 
