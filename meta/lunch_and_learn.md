@@ -15,7 +15,7 @@ So far, from external contributors we've had:
 * A D3 Overview by [Amit Schechter](http://twitter.com/‪meetamit‬) of TWO-N
 * How Zalado Works by [Laurita Apple](http://twitter.com/‪LauritaApplez‬) and [Alexander Kops](http://twitter.com/‪koze‬)
 * The ODEN Tech Stack by [@ODEN_tech](http://twitter.com/‪ODEN_tech)
-* Creating a Research Dept in a Startup by [Joe Carrafa](http://twitter.com/‪joetastic‬)
+* Creating a Research Dept in a Startup by [Joe Carrafa](http://twitter.com/‪joetastic‬) of Warby Parker
 
 ---
 
