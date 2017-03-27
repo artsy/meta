@@ -31,7 +31,7 @@ The format is definitely not set in stone, however these are what has worked for
 
 Traditional conference/meetup style: You bring slides, we watch. You talk, we listen. You finish, we ask questions.
 
-We don't expect conference/meetup-level presentation, and practice. A lack of polish is okay. This is a great opportunity to present new talks ideas. 
+We don't expect conference/meetup-level presentation or practice. A lack of polish is okay. This is a great opportunity to present new talks ideas. 
 
 #### Company Walkthrough
 
@@ -39,7 +39,7 @@ More informal, you can come with other speakers and talk about the ways in which
 
 ## Schedule
 
-* Arrive at Artsy for 11:30am ( We're [401 Broadway, 26th Floor, 10013][401] - Canal St is the closest station )
+* Arrive at Artsy for 11:45am ( We're [401 Broadway, 26th Floor, 10013][401] - Canal St is the closest station)
 * Ask for who you have been talking to, probably [Orta], [Craig] or [Ash]
 * They will get you set up on our 27th floor Classroom
 * We will set up [a stream](#recording) for global developers and slides
@@ -52,11 +52,11 @@ Artsy Engineering now owes you, and your company [a talk back](https://speakerde
 
 ## Recording
 
-We ask that we can share a livestream of your talk, because we have a lot of [global developers](https://www.artsy.net/article/eloy-duran-going-global-5-tips-to-make-remote-work). This is usually just loading Google Hangouts on your computer and sharing your screen.
+We ask that we can share a livestream of your talk, because we have a lot of [global developers](https://www.artsy.net/article/eloy-duran-going-global-5-tips-to-make-remote-work). This is just loading a Zoom.us link on your computer and sharing your screen.
 
-We also ask that we get a screen recording of your talk. This is usually loading QuickTime and doing a screen recording, then taking the MP4 from your computer. This is done to put inside our Lunch and Learn archives.
+We also ask that we get a screen recording of your talk, just internally for colleagues who couldn't attend or want to review your awesome talk later. This is also done through Zoom.us.
 
-If you don't want to be recorded, we understand that you might talk, and show things that are not for public consumption. We can skip the screen recording. By default we will not share anything externally without your express opinion.
+If you don't want to be recorded, we understand that you might talk, and show things that are not for public consumption. We can skip the screen recording. We will not share anything externally without your express opinion.
 
 [orta]: https://github.com/orta
 [craig]: https://github.com/craigspaeth
