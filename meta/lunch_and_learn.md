@@ -16,6 +16,8 @@ So far, from external contributors we've had:
 * How Zalado Works by [Laurita Apple](http://twitter.com/‪LauritaApplez‬) and [Alexander Kops](http://twitter.com/‪koze‬)
 * The ODEN Tech Stack by [@ODEN_tech](http://twitter.com/‪ODEN_tech)
 * Creating a Research Dept in a Startup by [Joe Carrafa](http://twitter.com/‪joetastic‬) of Warby Parker
+* Data Scince at Tumblr by [Nicola Barbieri](https://twitter.com/nicola_barbieri)
+* Marketing Automation by [Jon Hyman](https://twitter.com/jon_hyman) of AppBoy
 
 ---
 
