@@ -19,7 +19,7 @@ So far, from external contributors we've had:
 * Data Scince at Tumblr by [Nicola Barbieri](https://twitter.com/nicola_barbieri)
 * Marketing Automation by [Jon Hyman](https://twitter.com/jon_hyman) of AppBoy
 * How we use Docker by [Devon Blandin](https://devon.io/) of Code Climate
-* Technical Dept at Meetup by [Yvette Pasqua](https://twitter.com/lolarobot‬) of Meetup
+* Technical Dept at Meetup by [Yvette Pasqua](https://twitter.com/lolarobot‬)
 
 ---
 
