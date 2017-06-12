@@ -18,7 +18,7 @@ So far, from external contributors we've had:
 * Creating a Research Dept in a Startup by [Joe Carrafa](http://twitter.com/‪joetastic‬) of Warby Parker
 * Data Scince at Tumblr by [Nicola Barbieri](https://twitter.com/nicola_barbieri)
 * Marketing Automation by [Jon Hyman](https://twitter.com/jon_hyman) of AppBoy
-
+* How we use Docker by [Devon Blandin](https://devon.io/) of Code Climate
 ---
 
 You're probably seeing this as an external developer to Artsy, who has been invited to talk.
