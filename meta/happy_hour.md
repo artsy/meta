@@ -16,7 +16,7 @@ There are small snacks, drinks (including beer, wine, whiskey, etc.). We have a 
 
 * Thursday in summer, Friday the rest of the time
 * 401 Broadway, closest to Canal Street station, 24th Floor, 6-8:30pm
-* make sure that people who are coming are on the list with their first and last names
+* ensure your first and last name on the the guest list list, as well as others you are bringing, this should be handled by the person who invited you
 * bring ID
 * kids are OK, no dogs allowed
 * have a good time
