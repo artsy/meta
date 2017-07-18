@@ -10,6 +10,7 @@ A bunch of links for Engineers by Engineers.
 ### Big Questions
 
 * [what is Artsy?](meta/what_is_artsy.md)
+* [give me just one article to read on Artsy](https://www.theverge.com/2017/7/18/15983712/artsy-fine-art-galleries-online-auction-sales)
 
 ### Cool Content
 
@@ -23,7 +24,7 @@ A bunch of links for Engineers by Engineers.
 
 * [our Engineering blog](http://artsy.github.io)
 * [a list of our open-source projects](http://artsy.github.io/open-source)
-* [artsy tech stack circa 2015](http://artsy.github.io/blog/2015/03/23/artsy-technology-stack-2015)
+* [artsy tech stack circa 2017](https://artsy.github.io/blog/2017/04/14/artsy-technology-stack-2017/)
 * [open-source www.artsy.net](https://github.com/artsy/force)
 * [open-source artsy iOS app](https://github.com/artsy/eigen)
 * [a video of @orta code-reviewing our open-source Apple TV app](http://artsy.github.io/blog/2015/11/05/Emergence-Code-Review)
