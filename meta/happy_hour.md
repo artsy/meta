@@ -23,6 +23,8 @@ There are small snacks, drinks (including beer, wine, whiskey, etc.). We have a 
 
 ## Invite Someone
 
+Add your guests' name(s) to the [happy hour guest list](https://docs.google.com/spreadsheets/d/1mNpXhJq4sNGtyCRcVN0nEFWuw7Y3jtX7O9O4M0R6WOY/edit#gid=1283496295). There's a tab for every date, make sure you're adding them to the right one!
+
 ### Winter
 
 > Come visit us at the Artsy Happy Hour! It's every Friday, 401 Broadway, 24th Floor @ Canal St., 6:00pm. E-mail me the day before to get on the building security list. Bring whomever you want!
