@@ -20,6 +20,8 @@ So far, from external contributors we've had:
 * Marketing Automation by [Jon Hyman](https://twitter.com/jon_hyman) of AppBoy
 * How we use Docker by [Devon Blandin](https://devon.io/) of Code Climate
 * Technical Dept at Meetup by [Yvette Pasqua](https://twitter.com/lolarobot‬)
+* OSS in the fast lane by [Felix Krause](https://twitter.com/krausefx‬) of Google/fastlane
+* What is C4Q by [Jukay Hsu](https://twitter.com/JukayHsu‬) of [C4Q](http://www.c4q.nyc)
 
 ---
 
