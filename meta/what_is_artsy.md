@@ -21,21 +21,31 @@ Artsy has 5 core values:
 
 We believe in bringing together the often separated worlds of art and science, emotion and logic, creativity and analysis, the subjective and the objective. While some people feel more comfortable on one side and like to keep distance from the other, we believe that magical things happen at the intersection of the two, and look to create that intersection in everything we do and in the people we hire.
 
+> **Example**: We work as engineers, but we aren't defined by that role; Artsy holds an annual [Salon](http://www.dictionary.com/browse/salon) and we encourage our engineers (and indeed, all our colleagues) to submit work. Engineer contributions to this event have included generative pixel art, interactive video game, photo, video, sculpture, painting, live music and cartographic pieces.
+
 ### People are Paramount
 
 We believe in empowering each of our team members to feel like the CEO of their area of responsibility. People are our company’s most valuable asset, and this is reflected in the high degree of responsibility and freedom we afford every team member. This approach guides how Artsy treats our people in all other realms as well.
+
+> **Example**: We hold a weekly team lunch with a healthy, delicious meal; after introducing any new colleagues, our People Ops team encourages everyone to sit and eat with people they don't normally get to talk to.
 
 ### Quality Worthy of Art
 
 We strive to be a platform that is worthy of presenting the world’s most beautiful and culturally significant objects to all of humanity. By choosing to work at Artsy, we accept responsibility for this endeavor, and our work demonstrates a level of quality and intention that is worthy of the artists and people we serve.
 
+> **Example**: We embed product designers into our teams to work directly with engineers; collaboration between product vision and product development helps us create products that are of a quality worthy of art.
+
 ### Positive Energy
 
 We believe that art is fundamentally a positive force that can allow people to feel more inspired, connected, and present. Sadly, today many people’s perception of the art world is associated with negative feelings, such as exclusion, confusion, or judgment. We actively work to counteract these negative feelings by making our users’ interactions with art as inclusive and positive as possible.
 
+> **Example**: We begin our weekly engineering standups with "props"; everyone is encouraged to recognize and celebrate contributions that team members have made since the last standup.
+
 ### Openness
 
 We believe that openness allows for fuller self-expression and for art to be more fully experienced. We believe that being truly open in our communication—both giving and receiving—leads to more informed decisions and more productive relationships, which leads to better business.
+
+> **Example**: We encourage our engineering team members to be open about asking for help; our weekly standups have a 'requests for pairing' where we encourage folks to ask for help on anything they've been struggling with.
 
 ## What does this mean in practice?
 
