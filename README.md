@@ -1,5 +1,4 @@
-Artsy Meta
-==========
+# Artsy Meta
 
 A bunch of links for Engineers by Engineers.
 
@@ -46,6 +45,7 @@ A bunch of links for Engineers by Engineers.
 * [open engineering jobs](https://www.artsy.net/jobs#engineering)
 * [lunch and learn](meta/lunch_and_learn.md)
 * [happy hours](meta/happy_hour.md)
+* [open standup](meta/open_Standups.md)
 
 ## License
 
