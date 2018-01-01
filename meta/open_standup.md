@@ -27,11 +27,11 @@ Everyone leaves links to things they have commented on during the meeting, if th
 ```md
 _Props_
 
-\*
+-
 
 _CTO Update_
 
-\*
+-
 
 _Team Updates_
 
@@ -44,15 +44,15 @@ _Team Updates_
 
 _Cross-dependencies / Requests for Pairing_
 
-\*
+-
 
 _New Milestones / Repos / Blog posts_
 
-\*
+-
 
 _Lunch & Learn_
 
-\*
+-
 
 _Closing Announcements_
 
