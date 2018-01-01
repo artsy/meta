@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^6.0.0",
+    "prettier": "^1.9.2"
+  },
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.json": ["yarn prettier --write", "git add"],
+    "*.md": ["yarn prettier --write", "git add"]
+  },
+  "prettier": {
+    "printWidth": 120,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true
+  }
+}
