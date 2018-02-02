@@ -22,7 +22,7 @@ There are small snacks, drinks (including beer, wine, whiskey, etc.). We have a 
 * kids are OK, no dogs allowed
 * have a good time
 
-## Invite Someone
+## When Inviting Someone as Artsy Staff
 
 Add your guests' name(s) to the [happy hour guest list](https://docs.google.com/spreadsheets/d/1mNpXhJq4sNGtyCRcVN0nEFWuw7Y3jtX7O9O4M0R6WOY/edit#gid=1283496295). There's a tab for every date, make sure you're adding them to the right one!
 
