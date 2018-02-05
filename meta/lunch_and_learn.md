@@ -22,6 +22,7 @@ So far, from external contributors we've had:
 * Technical Dept at Meetup by [Yvette Pasqua](https://twitter.com/lolarobot‬)
 * OSS in the fast lane by [Felix Krause](https://twitter.com/krausefx‬) of Google/fastlane
 * What is C4Q by [Jukay Hsu](https://twitter.com/JukayHsu‬) of [C4Q](http://www.c4q.nyc)
+* Getting started in cryptocurrency trading by [Jake Brukhman](https://twitter.com/jbrukh?lang=en) of [Coinfund](https://coinfund.io)
 
 ---
 
