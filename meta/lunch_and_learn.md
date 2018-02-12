@@ -46,7 +46,7 @@ More informal, you can come with other speakers and talk about the ways in which
 ## Schedule
 
 * Arrive at Artsy for 11:45am ( We're [401 Broadway, 26th Floor, 10013][401] - Canal St is the closest station)
-* Ask for who you have been talking to, probably [Orta], [Craig] or [Ash]
+* Our receptionist will get in touch with whoever you've been in contact with, probably [Orta] or [Ash]
 * They will get you set up on our 27th floor Classroom
 * We will set up [a stream](#recording) for global developers and slides
 * There are inevitable technical difficulties (~10 minutes)
@@ -65,6 +65,5 @@ We also ask that we get a screen recording of your talk, just internally for col
 If you don't want to be recorded, we understand that you might talk, and show things that are not for public consumption. We can skip the screen recording. We will not share anything externally without your express opinion.
 
 [orta]: https://github.com/orta
-[craig]: https://github.com/craigspaeth
 [ash]: https://github.com/ashfurrow
 [401]: https://www.google.com/maps/place/401+Broadway/@40.718958,-74.0049492,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598a7196824f:0xddf53435afbdd5b9!8m2!3d40.718954!4d-74.0027552
