@@ -13,6 +13,7 @@ A standup is ideally ran by two people, one person talking, the other taking not
 
 * We start off with props, as a nod towards [People are Paramount][pplp]
 * Then we get an update from the CTO
+* Then an update from the Product team
 * Each tech lead gives a summary of what their teams have been up to
   * If the stand-up is straight after sprint kickoff, skip this section and thank people for giving their demos
   * You can get the projects from the [Sprint Kickoff][sk] google sheet
@@ -31,6 +32,10 @@ _Props_
 -
 
 _CTO Update_
+
+-
+
+_Product Team Updates_
 
 -
 
