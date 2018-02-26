@@ -24,6 +24,7 @@ So far, from external contributors we've had:
 * What is C4Q by [Jukay Hsu](https://twitter.com/JukayHsu‬) of [C4Q](http://www.c4q.nyc)
 * Getting started in cryptocurrency trading by [Jake Brukhman](https://twitter.com/jbrukh?lang=en) of [Coinfund](https://coinfund.io)
 * NYTimes Career Ladder by [Brian Hamman](https://twitter.com/hamman)
+* Swift & The Blockchain by [Tamar Nachmany](https://twitter.com/tamarshmallows)
 
 ---
 
