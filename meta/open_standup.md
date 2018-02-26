@@ -7,14 +7,15 @@ A standup is ideally ran by two people, one person talking, the other taking not
 
 ### Before a standup
 
-* All team leads are requested for updates [via Geekbot](https://geekbot.io) which appears in our engineer team slack.
 * Someone `@here`s the dev channel with a link and where the meeting is in the NYC office
 
 ### During standup
 
 * We start off with props, as a nod towards [People are Paramount][pplp]
 * Then we get an update from the CTO
-* Each team lead gives a summary of what their teams have been up to
+* Each tech lead gives a summary of what their teams have been up to
+  * If the stand-up is straight after sprint kickoff, skip this section
+  * You can get the projects from the [Sprint Kickoff][sk] google sheet
 * We leave a spot for potential cross-team issues
 * We have a spot to talk about things people are proud of
 * We then either announce [the Lunch & Learn][ll], or try find one for the week
@@ -33,14 +34,9 @@ _CTO Update_
 
 -
 
-_Team Updates_
+_Project Updates_
 
-* Eloy: Collector GMV Web & iOS
-* Joey: Platform
-* Kana: Publishing
-* Alan: Auctions
-* Sarah: Consignments
-* Chung-Yi: Partner Success
+* [Tech Lead]: [Project Name]
 
 _Cross-dependencies / Requests for Pairing_
 
@@ -64,3 +60,4 @@ _Closing Announcements_
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
 [ll]: https://github.com/artsy/meta/blob/master/meta/lunch_and_learn.md
+[sk]: https://docs.google.com/presentation/d/1qnaMUeshbvHb-m3kFGmnzySsoGL-jKx8iF0E5H8sJXQ/edit#slide=id.g2fb69f4062_0_137
