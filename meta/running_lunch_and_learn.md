@@ -41,7 +41,7 @@ Immediately before you present the speaker, hit the record button in Zoom.us.
 
 ### Afterward
 
-Right after the talk, ask the speaker for their slides. Then take the speaker and a few folks out to lunch. Tataki is never a bad idea. You can bring a few others who attended if there were any keeners. Make sure to expense this meal.
+Right after the talk, ask the speaker for their slides. Then take the speaker and a few folks out to lunch. Tataki is never a bad idea. Make sure to expense this meal.
 
 Later, Zoom.us will email you the video recording. Uploading the video and the slides to the Artsy Engineering Dropbox folder and post a link to Slack. Send a pull request to the [Lunch and Learn docs][lal] adding the speaker to our list. Make sure to thank the speaker again over email, offer a copy of the video, and reiterate that we owe them a talk now.
 
