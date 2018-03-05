@@ -25,6 +25,7 @@ So far, from external contributors we've had:
 * Getting started in cryptocurrency trading by [Jake Brukhman](https://twitter.com/jbrukh?lang=en) of [Coinfund](https://coinfund.io)
 * NYTimes Career Ladder by [Brian Hamman](https://twitter.com/hamman)
 * Swift & The Blockchain by [Tamar Nachmany](https://twitter.com/tamarshmallows)
+* CI & CD at Spotify by [Jason Palmer](https://twitter.com/palmerj3)
 
 ---
 
@@ -38,7 +39,7 @@ The format is definitely not set in stone, however these are what has worked for
 
 Traditional conference/meetup style: You bring slides, we watch. You talk, we listen. You finish, we ask questions.
 
-We don't expect conference/meetup-level presentation or practice. A lack of polish is okay. This is a great opportunity to present new talks ideas. 
+We don't expect conference/meetup-level presentation or practice. A lack of polish is okay. This is a great opportunity to present new talks ideas.
 
 #### Company Walkthrough
 
