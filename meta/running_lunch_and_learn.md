@@ -12,7 +12,7 @@ Read on for more specifics.
 
 ## Handling a Referral
 
-Sometimes you'll get an introduction to a speaker from a colleague, passing the baton to you to organize the actual even. Just follow these steps:
+Sometimes you'll get an introduction to a speaker from a colleague, passing the baton to you to organize the actual event. Just follow these steps:
 
 * Say thanks!
 * Pass along the link to the [lunch_and_learn.md][lal].
