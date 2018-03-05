@@ -1,0 +1,244 @@
+[
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/A%20Day%20at%20Pivotal",
+    "name": "A Day at Pivotal"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Addressing%20Tech%20Debt%20at%20Meetup",
+    "name": "Addressing Tech Debt at Meetup"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/AR%20at%20Artsy",
+    "name": "AR at Artsy"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Artsy%20Messaging%20walkthrough",
+    "name": "Artsy Messaging walkthrough"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Artsy%20Stacks%20Series",
+    "name": "Artsy Stacks Series"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Artsy%20Tech%20Stack",
+    "name": "Artsy Tech Stack"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/babel%20%2B%20oss",
+    "name": "babel + oss"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Blockchain",
+    "name": "Blockchain"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Buffer",
+    "name": "Buffer"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Building%20Alexa%20Skills",
+    "name": "Building Alexa Skills"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/CI%20%26%20CD%20at%20Spotify",
+    "name": "CI & CD at Spotify"
+  },
+  {
+    "url":
+      "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/CircleCI%202.0%20and%20Causality%20deployment",
+    "name": "CircleCI 2.0 and Causality deployment"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Coalition%20for%20Queens",
+    "name": "Coalition for Queens"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Code%20Graveyards%20with%20Craig",
+    "name": "Code Graveyards with Craig"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Contemplating%20A%20New%20Web%20Stack",
+    "name": "Contemplating A New Web Stack"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Cryptocurrency%20Trading",
+    "name": "Cryptocurrency Trading"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/d3",
+    "name": "d3"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Data%20Science%20at%20Tumblr",
+    "name": "Data Science at Tumblr"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Deep%20Learning",
+    "name": "Deep Learning"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Dev%20Swap",
+    "name": "Dev Swap"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/DevOps",
+    "name": "DevOps"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Docker%20%2B%20Hokusai",
+    "name": "Docker + Hokusai"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Docker%20at%20Code%20Climate",
+    "name": "Docker at Code Climate"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Fastlane",
+    "name": "Fastlane"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Finance%20Team",
+    "name": "Finance Team"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Force%20Merge",
+    "name": "Force Merge"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Gallery%20Partnerships",
+    "name": "Gallery Partnerships"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/GDRP%20and%20PII%20regulations",
+    "name": "GDRP and PII regulations"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Gemini",
+    "name": "Gemini"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/GraphQL",
+    "name": "GraphQL"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/GraphQL%20best%20practices",
+    "name": "GraphQL best practices"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Javascript",
+    "name": "Javascript"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Kafka%20%2B%20EventStream",
+    "name": "Kafka + EventStream"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Live%20Auction%20Integration",
+    "name": "Live Auction Integration"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Marketing%20Automation",
+    "name": "Marketing Automation"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Messaging",
+    "name": "Messaging"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Middleman",
+    "name": "Middleman"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Oden",
+    "name": "Oden"
+  },
+  {
+    "url":
+      "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Pair%20Programming%20%2B%20Standup%20%2B%20Kanban",
+    "name": "Pair Programming + Standup + Kanban"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Payments",
+    "name": "Payments"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Positron",
+    "name": "Positron"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Prediction",
+    "name": "Prediction"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Push%20Notifications",
+    "name": "Push Notifications"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/RailsJSTesting",
+    "name": "RailsJSTesting"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/React",
+    "name": "React"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/React%20Native",
+    "name": "React Native"
+  },
+  {
+    "url": "https://www.dropbox.com/preview/Artsy%20Engineering/LunchAndLearn/README.md?role=work",
+    "name": "README.md"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Rewriting%20in%20React",
+    "name": "Rewriting in React"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Sailthru",
+    "name": "Sailthru"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Salesforce",
+    "name": "Salesforce"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Similarity",
+    "name": "Similarity"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Spark",
+    "name": "Spark"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Swift%20%2B%20Blockchain",
+    "name": "Swift + Blockchain"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/The%20NTYimes%20IC%20Tech%20Ladder",
+    "name": "The NTYimes IC Tech Ladder"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Tremendous%20Tweets",
+    "name": "Tremendous Tweets"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/typescript",
+    "name": "typescript"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Venice%20Biennale%20360%20Video",
+    "name": "Venice Biennale 360 Video"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/VSCode",
+    "name": "VSCode"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Working%20with%20Gravity",
+    "name": "Working with Gravity"
+  },
+  {
+    "url": "https://www.dropbox.com/work/Artsy%20Engineering/LunchAndLearn/Zalando",
+    "name": "Zalando"
+  }
+]
