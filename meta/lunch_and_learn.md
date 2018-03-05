@@ -1,4 +1,4 @@
-### Lunch & Learn
+# Lunch & Learn
 
 When Artsy was under 50 people, we would hold "Brown Bag" meetings. These were talks on a variety of art+science topics. As we out-grew the format, we started doing engineering "Brown Bag" meetings. Occasionally.
 
@@ -61,9 +61,9 @@ Artsy Engineering now owes you, and your company [a talk back](https://speakerde
 
 We ask that we can share a livestream of your talk, because we have a lot of [global developers](https://www.artsy.net/article/eloy-duran-going-global-5-tips-to-make-remote-work). This is just loading a Zoom.us link on your computer and sharing your screen.
 
-We also ask that we get a screen recording of your talk, just internally for colleagues who couldn't attend or want to review your awesome talk later. This is also done through Zoom.us.
+We also ask that we get a screen recording of your talk, just internally, for colleagues who couldn't attend or want to review your awesome talk later. This is also done through Zoom.us. We'd like to get a copy of your slides, too. Of course, we're happy to send you a copy of the recording.
 
-If you don't want to be recorded, we understand that you might talk, and show things that are not for public consumption. We can skip the screen recording. We will not share anything externally without your express opinion.
+If you don't want to be recorded, we understand that you might talk and show things that are not for public consumption. We can skip the screen recording. We will not share anything externally without your express opinion.
 
 [orta]: https://github.com/orta
 [ash]: https://github.com/ashfurrow
