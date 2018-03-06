@@ -47,6 +47,7 @@ A bunch of links for Engineers by Engineers.
 * [how we run lunch and learns](meta/running_lunch_and_learn.md)
 * [happy hours](meta/happy_hour.md)
 * [open standup](meta/open_standup.md)
+* [show and tell](meta/show_and_tell.md)
 
 ## License
 
