@@ -4,7 +4,10 @@ Show & Tell is a new weekly event we're trying out to get more visibility into w
 
 Previous demos include:
 
-- Cool things with [Cypress](https://www.cypress.io) and [Mapbox](https://www.mapbox.com) by @anandaroop.
-- Initial work on the new [CocoaPods metadata service](https://github.com/CocoaPods/cocoapods-metadata-service) by @orta.
+- Cool things with [Cypress](https://www.cypress.io) and [Mapbox](https://www.mapbox.com) by [@anandaroop][roop].
+- Initial work on the new [CocoaPods metadata service](https://github.com/CocoaPods/cocoapods-metadata-service) by [@orta][orta].
 
 It's still early in the process so we're looking forward to how this event can grow and encourage cross-team collaboration and knowledge sharing.
+
+[orta]: https://github.com/orta
+[roop]: https://github.com/anandaroop
