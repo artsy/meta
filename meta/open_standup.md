@@ -3,11 +3,14 @@
 We've been doing engineering standups for as long as there has been an engineering team. The formats have changed over
 time as the size and scope of Artsy has changed. We're now on our fourth iteration of this process.
 
-A standup is ideally ran by two people, one person talking, the other taking notes.
+A standup is ideally ran by two people, one person talking, the other taking notes. Decide amongst yourselves which of you will do the before standup stuff.
 
 ### Before a standup
 
 * Someone `@here`s the dev channel with a link and where the meeting is in the NYC office
+* Someone reminds the project leads in #dev to prepare their tweet-sized updates, something like this:
+
+> friendly reminder: we’re doing tweet-sized updates from project leads during open standup so have yours ready! /cc @list @of @leads
 
 ### During standup
 
