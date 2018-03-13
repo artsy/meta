@@ -1,6 +1,6 @@
 # Show & Tell
 
-Show & Tell is a new weekly event we're trying out to get more visibility into what our teammates have been working on recently. It is scheduled weekly for a half hour each week (see the shared Engineering Open Meetings calendar) and consists of three ten-minute walkthroughs. These walkthroughs are a presentation of works-in-progress and *no* preparation is expected of these presenters. We get people excited about Show & Tell at [Monday standups](open_standup.md) and then do an *@here* an hour beforehand to remind people. We then meet and, in an open mic-style, developers step forward to show and tell!
+Show & Tell is a new, **optional** weekly event we're trying out to get more visibility into what our teammates have been working on recently. It is scheduled weekly for a half hour each week (see the shared Engineering Open Meetings calendar) and consists of three ten-minute walkthroughs. These walkthroughs are a presentation of works-in-progress and *no* preparation is expected of these presenters. We get people excited about Show & Tell at [Monday standups](open_standup.md) and then do an *@here* an hour beforehand to remind people. We then meet and, in an open mic-style, developers step forward to show and tell!
 
 Previous demos include:
 
