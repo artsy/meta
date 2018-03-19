@@ -5,6 +5,8 @@ time as the size and scope of Artsy has changed. We're now on our fourth iterati
 
 A standup is ideally ran by two people, one person talking, the other taking notes. Decide amongst yourselves which of you will do the before standup stuff.
 
+**Note**: We document our standup process to the degree that _anyone_ on our team can run the standup because we believe that _everyone_ should run at least one meeting. These standups are important for team cohesion and cross-team knowledge sharing; they are an organization-wide responsibility and every engineer should participate.
+
 ### Before a standup
 
 * Someone `@here`s the dev channel with a link and where the meeting is in the NYC office
