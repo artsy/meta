@@ -65,7 +65,7 @@ _Closing Announcements_
 * Ash will be available on Wednesday from 2–3 on the 24th floor, or over Slack, to assist with writing projects. If
   you're writing a blog post, proposing a conference talk, or writing documentation, this is where you can
   come for help.
-*
+* Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info: https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
 ```
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
