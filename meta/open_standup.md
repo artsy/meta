@@ -29,7 +29,7 @@ A standup is ideally ran by two people, one person talking, the other taking not
 During the standup, someone writes up these notes and passes them out on to slack after.
 Everyone leaves links to things they have commented on during the meeting, if they don't, we chase them up.
 
-## Out Markdown Template
+## Our Markdown Template
 
 ```md
 _Props_
