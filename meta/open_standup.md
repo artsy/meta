@@ -7,10 +7,10 @@ A standup is ideally ran by two people, one person talking, the other taking not
 
 **Note**: We document our standup process to the degree that _anyone_ on our team can run the standup because we believe that _everyone_ should run at least one meeting. These standups are important for team cohesion and cross-team knowledge sharing; they are an organization-wide responsibility and every engineer should participate.
 
-### Before a standup
+### Ten minutes before a standup
 
-* Someone `@here`s the dev channel with a link and where the meeting is in the NYC office
-* Someone reminds the project leads in #dev to prepare their tweet-sized updates, something like this:
+* The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office (usually the Classroom).
+* The same person reminds the project leads in #dev to prepare their tweet-sized updates, something like this:
 
 > friendly reminder: we’re doing tweet-sized updates from project leads during open standup so have yours ready! /cc @list @of @leads
 
