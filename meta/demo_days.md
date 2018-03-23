@@ -1,7 +1,7 @@
 # Demo Days at Artsy
 
 Demo Days are a way of showing off shipped projects to the rest of the team. It's a collection of 4-6 projects,
-explained by the people who contributed to them; product managers, designers and programmers.
+explained by the people who contributed to them: product managers, designers and programmers.
 
 There are three separate roles involved in pulling a demo day off:
 
@@ -16,10 +16,12 @@ slides/project coordinator. They need to:
 * Make sure to find the sprint that’s just ending
 * Get all the tech leads names
 * Make a message to everyone asking for what they can do
-* Something like: “@x, @y, @z - you were all tech leads on this sprint, does your projecy you have anything good to
-  demo?”
-* Collect feedback on what we could do, poke one people privately
+* Something like: “@x, @y, @z - you were all tech leads on this sprint, @a, @b, @c product people, @d, @e, @f - the rest
+  of the company uses demo days to see what the product team is up to, what did your team ship this sprint that's
+  important to share?”
+* Collect feedback on what we could do, poke people privately if you don't get responses
 * Open the last demo day slides, and make a copy with a new date
+* Make a [terrigood][ud] nickname for the demo
 * Paste the link in Slack as you start to fill out who is speaking
 * Get the projects decided, add them to the white overview slides
 * Add a black slide for each person
@@ -31,7 +33,8 @@ slides/project coordinator. They need to:
 
 e.g.
 
->     @here in 60m, on the 24th floor in NYC, we’re going to do the product demo day. Which is where we show off what’s shipping or has been shipped this sprint.
+> @here in 60m, on the 24th floor in NYC, we’re going to do the product demo day. Which is where we show off what’s
+> shipping or has been shipped this sprint.
 >
 > We’re planning to cover:
 >
@@ -76,16 +79,16 @@ The presentation work is mostly handled by the MC
 * Then covers an overview of the major projects
 * Introduces the speakers etc
 * Helps out with tech support on stage
-* Once all takos are done, they request the wine
+* Once all talks are done, then request the person who is giving out the wine to come on stage
 
 * The tech person monitors #general and #demo-days for requests
 
 ### After
 
-* Turn off the recording
-* Finish the zoom meeting
-* Check you mail for the recordin
+* Turn off the recording by finishing the zoom meeting
+* Check you mail for the recording, it could take about an hour
 * Put it in the Artsy Videos dropbox folder
 * Send out another message (no @here though) with the video in #general
 
 [kickoff]: https://docs.google.com/presentation/d/1qnaMUeshbvHb-m3kFGmnzySsoGL-jKx8iF0E5H8sJXQ/edit#slide=id.g3534ea4f12_0_0
+[ud]: https://www.urbandictionary.com/define.php?term=terrigood
