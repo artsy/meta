@@ -16,7 +16,7 @@ slides/project coordinator. On the morning of a demo day, they need to:
 * Make sure to find the sprint that’s just ending
 * Get all the tech leads names
 * Make a message to everyone asking for what they can do
-* Something like: “@x, @y, @z - you were all tech leads on this sprint, @a, @b, @c product people, @d, @e, @f - the rest
+* Something like: “@x, @y, @z - you were all tech leads on this sprint, @a, @b, @c product people, @d, @e, @f designers - the rest
   of the company uses demo days to see what the product team is up to, what did your team ship this sprint that's
   important to share?”
 * Collect feedback on what we could do, poke people privately if you don't get responses
