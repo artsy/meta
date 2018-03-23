@@ -10,7 +10,7 @@ There are three separate roles involved in pulling a demo day off:
 * Technical Support
 
 Most of the work is done before-hand in preparing the deck, and deciding what to show. This is the role of the
-slides/project coordinator. They need to:
+slides/project coordinator. On the morning of a demo day, they need to:
 
 * Start the process by going to the [Sprint Kickoff][kickoff] slides
 * Make sure to find the sprint that’s just ending
