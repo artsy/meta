@@ -16,6 +16,7 @@
     "semi": false,
     "singleQuote": false,
     "trailingComma": "es5",
-    "bracketSpacing": true
+    "bracketSpacing": true,
+    "proseWrap": "always"
   }
 }
