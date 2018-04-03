@@ -12,7 +12,7 @@ A standup is ideally ran by two people, one person talking, the other taking not
 * The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office (usually the Classroom).
 * The same person reminds the project leads in #dev to prepare their tweet-sized updates, something like this:
 
-> friendly reminder: we’re doing tweet-sized updates from project leads during open standup so have yours ready! /cc @list @of @leads
+> friendly reminder: we’re doing summary updates from project leads during open standup, so have yours ready! /cc @kana @matt @alloy @acjay @chung-yi @joey
 
 ### During standup
 
@@ -21,14 +21,11 @@ A standup is ideally ran by two people, one person talking, the other taking not
 * Then an update from the Product team
 * Then an update from the current on-call support team
 * Each tech lead gives a summary of what their teams have been up to
-  * If the stand-up is straight after sprint kickoff, skip this section and thank people for giving their demos
-  * You can get the projects from the [Sprint Kickoff][sk] google sheet
 * We leave a spot for potential cross-team issues
 * We have a spot to talk about things people are proud of
 * We then either announce [the Lunch & Learn][ll], or try find one for the week
 
-During the standup, someone writes up these notes and passes them out on to slack after.
-Everyone leaves links to things they have commented on during the meeting, if they don't, we chase them up.
+During the standup, someone writes up these notes and passes them out on to Slack after. Everyone leaves links to things they have commented on during the meeting, if they don't, we chase them up.
 
 ## Our Markdown Template
 
@@ -51,7 +48,12 @@ _On-call Support Updates_
 
 _Project Updates_
 
-* [Tech Lead]: [Project Name]
+- Grow, Kana:
+- Discover, Matt Z:
+- Evaluate, Eloy:
+- Purchase, Alan:
+- Sell, Chung-Yi:
+- Platform, Joey:
 
 _Cross-dependencies / Requests for Pairing_
 
@@ -67,12 +69,12 @@ _Lunch & Learn_
 
 _Closing Announcements_
 
-* Ash will be available on Wednesday from 2–3 on the 24th floor, or over Slack, to assist with writing projects. If
-  you're writing a blog post, proposing a conference talk, or writing documentation, this is where you can
-  come for help.
-* Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info: https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
+- Ash will be available on Wednesday from 2–3 on the 24th floor, or over Slack, to assist with writing projects. If you're writing a blog post, proposing a conference talk, or writing documentation, this is where you can come for help.
+- Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info: https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
+- We're looking for volunteers to run next week's standup! We need two volunteers: one person to take notes and one person to do the talking. 
+  - Okay great! We've got [INSERT VOLUNTEERS NAMES HERE] running this next week.
+- 
 ```
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
 [ll]: https://github.com/artsy/meta/blob/master/meta/lunch_and_learn.md
-[sk]: https://docs.google.com/presentation/d/1qnaMUeshbvHb-m3kFGmnzySsoGL-jKx8iF0E5H8sJXQ/edit#slide=id.g2fb69f4062_0_137
