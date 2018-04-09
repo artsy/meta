@@ -3,16 +3,27 @@
 We've been doing engineering standups for as long as there has been an engineering team. The formats have changed over
 time as the size and scope of Artsy has changed. We're now on our fourth iteration of this process.
 
-A standup is ideally ran by two people, one person talking, the other taking notes. Decide amongst yourselves which of you will do the before standup stuff.
+A standup is ideally ran by two people, one person talking, the other taking notes. Decide amongst yourselves which of
+you will do the before standup stuff.
 
-**Note**: We document our standup process to the degree that _anyone_ on our team can run the standup because we believe that _everyone_ should run at least one meeting. These standups are important for team cohesion and cross-team knowledge sharing; they are an organization-wide responsibility and every engineer should participate.
+**Note**: We document our standup process to the degree that _anyone_ on our team can run the standup because we believe
+that _everyone_ should run at least one meeting. These standups are important for team cohesion and cross-team knowledge
+sharing; they are an organization-wide responsibility and every engineer should participate.
 
 ### Ten minutes before a standup
 
-* The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office (usually the Classroom).
-* The same person reminds the project leads in #dev to prepare their tweet-sized updates, something like this:
+* The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office
+  (usually the Classroom).
+* The same person reminds the team leads in #dev to prepare their tweet-sized updates, something like this:
 
-> friendly reminder: we’re doing summary updates from project leads during open standup, so have yours ready! /cc @kana @matt @alloy @acjay @chung-yi @joey
+> friendly reminder: we’re doing summary updates from tech leads during open standup, so have yours ready! /cc
+> @tech-leads
+
+### What is a good update?
+
+* Should focus on status of product work
+* Raises larger technical changes which affect other teams
+* Talks about the team effort rather than an individual's work
 
 ### During standup
 
@@ -25,7 +36,8 @@ A standup is ideally ran by two people, one person talking, the other taking not
 * We have a spot to talk about things people are proud of
 * We then either announce [the Lunch & Learn][ll], or try find one for the week
 
-During the standup, someone writes up these notes and passes them out on to Slack after. Everyone leaves links to things they have commented on during the meeting, if they don't, we chase them up.
+During the standup, someone writes up these notes and passes them out on to Slack after. Everyone leaves links to things
+they have commented on during the meeting, if they don't, we chase them up.
 
 ## Our Markdown Template
 
@@ -46,14 +58,14 @@ _On-call Support Updates_
 
 -
 
-_Project Updates_
+_Team Updates_
 
-- Grow, Kana:
-- Discover, Matt Z:
-- Evaluate, Eloy:
-- Purchase, Alan:
-- Sell, Chung-Yi:
-- Platform, Joey:
+* Grow:
+* Discover:
+* Evaluate:
+* Purchase:
+* Sell:
+* Platform:
 
 _Cross-dependencies / Requests for Pairing_
 
@@ -69,11 +81,15 @@ _Lunch & Learn_
 
 _Closing Announcements_
 
-- Ash will be available on Wednesday from 2–3 on the 24th floor, or over Slack, to assist with writing projects. If you're writing a blog post, proposing a conference talk, or writing documentation, this is where you can come for help.
-- Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info: https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
-- We're looking for volunteers to run next week's standup! We need two volunteers: one person to take notes and one person to do the talking. 
-  - Okay great! We've got [INSERT VOLUNTEERS NAMES HERE] running this next week.
-- 
+* Ash will be available on Wednesday from 2–3 on the 24th floor, or over Slack, to assist with writing projects. If
+  you're writing a blog post, proposing a conference talk, or writing documentation, this is where you can come for
+  help.
+* Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info:
+  https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
+* We're looking for volunteers to run next week's standup! We need two volunteers: one person to take notes and one
+  person to do the talking.
+  * Okay great! We've got [INSERT VOLUNTEERS NAMES HERE] running this next week.
+*
 ```
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
