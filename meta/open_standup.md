@@ -14,6 +14,10 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 * The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office
   (usually the Classroom).
+* The same person reminds last week's on-call staff in #dev to prepare their updates about last week's rotation. Something like:
+
+> @personA @personB reminder, we're looking for a list of major or notable incidents from last week during standup.
+
 * The same person reminds the team leads in #dev to prepare their tweet-sized updates, something like this:
 
 > friendly reminder: we’re doing summary updates from tech leads during open standup, so have yours ready! /cc
