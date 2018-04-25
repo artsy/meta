@@ -50,10 +50,6 @@ _CTO Update_
 
 -
 
-_Product Team Updates_
-
--
-
 _On-call Support Updates_
 
 -
