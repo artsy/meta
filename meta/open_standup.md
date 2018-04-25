@@ -12,6 +12,7 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 ### Ten minutes before a standup
 
+* The person handling the talking parts should check [the on-call calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_nolej2muchgbpne9etkf7qfet8%40group.calendar.google.com&ctz=America%2FNew_York) to see who is on call this week. They will remind everyone who it is during the standup, included in the template below.
 * The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office
   (usually the Classroom).
 * The same person reminds last week's on-call staff in #dev to prepare their updates about last week's rotation. Something like:
@@ -57,6 +58,7 @@ _Product Team Updates_
 
 _On-call Support Updates_
 
+- This week, @personC and @personD will be on-call for support.
 -
 
 _Team Updates_
