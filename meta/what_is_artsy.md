@@ -34,7 +34,7 @@ We believe in empowering each of our team members to feel like the CEO of their 
 We strive to be a platform that is worthy of presenting the world’s most beautiful and culturally significant objects to all of humanity. By choosing to work at Artsy, we accept responsibility for this endeavor, and our work demonstrates a level of quality and intention that is worthy of the artists and people we serve.
 
 > **Example**: We have opted to not release products that are ready to ship because of they would not be up to par based on 
-  externalities we can't control.
+  externalities we can't control. For example we choose not to ship an Apple Watch app because platform contraints would have made the bidding experience frustrating.
 
 ### Positive Energy
 
