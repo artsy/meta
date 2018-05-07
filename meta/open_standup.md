@@ -12,7 +12,7 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 ### Ten minutes before a standup
 
-* The person handling the talking parts should check [the on-call calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_nolej2muchgbpne9etkf7qfet8%40group.calendar.google.com&ctz=America%2FNew_York) to see who is on call this week. They will remind everyone who it is during the standup, included in the template below.
+* Whichever two engineers are beginning their standup rotation are responsibility for running the standup. Pick one person to run the talking parts, and one person to take notes.
 * The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office
   (usually the Classroom).
 * The same person reminds last week's on-call staff in #dev to prepare their updates about last week's rotation. Something like:
@@ -32,7 +32,7 @@ sharing; they are an organization-wide responsibility and every engineer should 
 * We start off with props, as a nod towards [People are Paramount][pplp]
 * Then we get an update from the CTO
 * Then an update from the Product team
-* Then an update from the current on-call support team
+* Then an update from last week's on-call support team
 * Each tech lead gives a summary of what their teams have been up to
 * We leave a spot for potential cross-team issues
 * We have a spot to talk about things people are proud of
@@ -85,9 +85,6 @@ _Closing Announcements_
   help.
 * Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info:
   https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
-* We're looking for volunteers to run next week's standup! We need two volunteers: one person to take notes and one
-  person to do the talking.
-  * Okay great! We've got [INSERT VOLUNTEERS NAMES HERE] running this next week.
 *
 ```
 
