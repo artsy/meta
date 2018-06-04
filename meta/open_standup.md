@@ -12,7 +12,7 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 ### Ten minutes before a standup
 
-* Whichever two engineers are beginning their standup rotation are responsibility for running the standup. Pick one person to run the talking parts, and one person to take notes.
+* Whichever two engineers are beginning their on-call rotation are responsibility for running the standup. Pick one person to run the talking parts, and one person to take notes.
 * The person handling the talking parts `@here`s the dev channel. Include where the meeting is in the NYC office
   (usually the Classroom).
 * The same person reminds last week's on-call staff in #dev to prepare their updates about last week's rotation. Something like:
