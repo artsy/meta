@@ -31,7 +31,6 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 * We start off with props, as a nod towards [People are Paramount][pplp]
 * Then we get an update from the CTO
-* Then an update from the Product team
 * Then an update from last week's on-call support team
 * Each tech lead gives a summary of what their teams have been up to
 * We leave a spot for potential cross-team issues
