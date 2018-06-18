@@ -6,12 +6,11 @@ Artsy is well known for our work in the open source domain, but as developers we
 
 ## Artsy Vision
 
-> A world where art is as popular a part of culture as music.
+> A future where everyone is moved by art everyday.
 
 ## Artsy Mission
 
-> Artsy is a company whose mission is to make all the world’s art accessible to anyone with an Internet connection.
-
+> Expand the art market to support more artists in art.
 
 ## Artsy Values
 
