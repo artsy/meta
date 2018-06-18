@@ -6,11 +6,11 @@ Artsy is well known for our work in the open source domain, but as developers we
 
 ## Artsy Vision
 
-> A future where everyone is moved by art everyday.
+> A future where everyone is moved by art every day.
 
 ## Artsy Mission
 
-> Expand the art market to support more artists in art.
+> Expand the art market to support more artists and art in the world.
 
 ## Artsy Values
 
