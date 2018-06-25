@@ -89,7 +89,7 @@ _Closing Announcements_
   help.
 * Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info:
   https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
-*
+* The last two support engineers should stick around to chat with us, the new support engineers after this meeting
 ```
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
