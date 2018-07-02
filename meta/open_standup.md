@@ -64,8 +64,7 @@ _On-call Support Updates_
 _Team Updates_
 
 * Grow:
-* Discover:
-* Evaluate:
+* DiscoValuate:
 * Purchase:
 * Sell:
 * Platform:
