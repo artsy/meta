@@ -11,6 +11,8 @@ A bunch of links for Engineers by Engineers.
 * [what is Artsy?](meta/what_is_artsy.md)
 * [give me just one article to read on Artsy](https://www.theverge.com/2017/7/18/15983712/artsy-fine-art-galleries-online-auction-sales)
 * [what is it like to be an engineer at Artsy?](https://medium.com/artsy-blog/what-it-feels-like-to-work-in-a-supportive-environment-for-female-engineers-3c994a001007)
+* [where is our jobs page?](https://www.artsy.net/jobs)
+
 
 ### Art Content
 
