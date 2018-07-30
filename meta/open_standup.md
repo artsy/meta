@@ -31,8 +31,8 @@ sharing; they are an organization-wide responsibility and every engineer should 
 
 * We start off with props, as a nod towards [People are Paramount][pplp]
 * Then we get an update from the CTO
-* Then an update from the Product team
-* Then an update from last week's on-call support team
+* Then an update from the Product team (someone should be present to give one)
+* Then an update from last week's on-call support team, including follow-up work items
 * Each tech lead gives a summary of what their teams have been up to
 * We leave a spot for potential cross-team issues
 * We have a spot to talk about things people are proud of
@@ -59,7 +59,8 @@ _Product Team Updates_
 _On-call Support Updates_
 
 - This week, @personC and @personD will be on-call for support.
--
+- Last week, we saw the following notable incidents (please include follow-up details)
+  -
 
 _Team Updates_
 
@@ -88,7 +89,8 @@ _Closing Announcements_
   help.
 * Show & Tell is this Friday at 11:30 NYC time in the Studio on 24 (and over Zoom). See the docs for more info:
   https://github.com/artsy/meta/blob/master/meta/show_and_tell.md
-* The last two support engineers should stick around to chat with us, the new support engineers after this meeting
+* The last two support engineers should stick around to chat with us, the new support engineers after this meeting.
+* 
 ```
 
 [pplp]: https://github.com/artsy/meta/blob/master/meta/what_is_artsy.md#people-are-paramount
