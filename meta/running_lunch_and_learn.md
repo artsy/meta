@@ -24,7 +24,8 @@ Sometimes you'll get an introduction to a speaker from a colleague, passing the 
 
 ### The Monday Before
 
-* Send a note to Camille and Katherine to be included in the weekly newsletter.
+* Send a note to Camille and Katherine to be included in the weekly newsletter. Make sure that the newsletter copy makes it clear who the audience is for the talk: is it a highly technical audience? Or more general?
+* If the audience for a talk is general enough to invite the whole company, then send out a calendar invitation. Make it clear who the audience is for the talk.
 * Make some noise on Slack to get folks excited to come on Thursday.
 
 ### The Day Before
