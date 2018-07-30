@@ -35,7 +35,9 @@ So far, from external contributors we've had:
 
 ---
 
-You're probably seeing this as an external developer to Artsy, who has been invited to talk.
+## Giving a Talk
+
+You're probably seeing this as someone external to Artsy, who has been invited to talk. Please note that nothing about this format is set in stone; we are happy to work with you to figure out a format that works for you and your talk.
 
 #### Presentation
 
@@ -47,7 +49,7 @@ We don't expect conference/meetup-level presentation or practice. A lack of poli
 
 More informal, you can come with other speakers and talk about the ways in which your company works. Covering your tech stack, the decisions behind them. With the presentation mainly being a series of demos, and showing code architecture.
 
-## Schedule
+### Schedule
 
 * Arrive at Artsy for 11:45am (we're [401 Broadway, 26th Floor, 10013][401] - Canal St is the closest station)
 * Our receptionist will get in touch with whoever you've been in contact with, probably [Orta] or [Ash]
@@ -60,7 +62,7 @@ More informal, you can come with other speakers and talk about the ways in which
 
 Artsy Engineering now owes you, and your company [a talk back](https://speakerdeck.com/ashfurrow/teaching-and-learning-1). Feel free to arrange that whenever you like.
 
-## Recording
+### Recording
 
 We ask that we can share a livestream of your talk, because we have a lot of [global developers](https://www.artsy.net/article/eloy-duran-going-global-5-tips-to-make-remote-work). This is just loading a Zoom.us link on your computer and sharing your screen. We'd like to get a copy of your slides, too. Of course, we're happy to send you a copy of the recording.
 
