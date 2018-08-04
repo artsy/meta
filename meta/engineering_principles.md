@@ -1,10 +1,14 @@
-# Engineering Principals
+# Engineering Principles
+
+We have [company values](what_is_artsy.md), and are working on our shared values with design and product. However,
+when we make decisions on what and how to do engineering we need guiding principals. Things that make Artsy's
+development culture unique and drive us to do great work.
 
 ### Open Source by Default
 
 We consider the data and relationships that make Artsy difficult to copy, code only represents the past and
 close-to present. A code project should start as open, then move to closed if there are valid business needs that
-need to be hidden. Docs should be built with both internal and external viewers in mind.
+need to be hidden.
 
 Working in the open allows individual to retain their work and ideas post-Artsy. We can share the exact problem we
 see with others, and provide great high ways to teach by direct reference.
@@ -31,11 +35,11 @@ get large enough for their stewardship to become burdensome.
 
 Take the best dependencies to fit your problem and make them better. Rather than try re-invent the wheel, give time
 to take the best dependencies and make them fit into our use cases. We’re not the biggest team, so the most value
-for your time can be achieved by writing the glue code between larger projects.
+for someone's time can be achieved by writing the glue code between larger projects.
 
-You should consider all of the pieces related to your app as being your work. E.g. just like you would consider
-work on an API when you're doing front-end work, making sure that React or TypeScript behave like we'd want is an
-important part of product work. It's another part of our stack.
+Consider all of the pieces related to your app as being part of your work. E.g. just like you would consider
+working on an API when you're doing front-end work, making sure that React or TypeScript behave like we'd want is
+an important part of product work. It's another part of our stack.
 
 Aim to be a trusted contributor to the communities surrounding your work, communicate clearly, publicly and be
 empathetic to the priorities of others.
