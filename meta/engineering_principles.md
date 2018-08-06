@@ -1,21 +1,21 @@
 # Engineering Principles
 
 We have [company values](what_is_artsy.md), and are working on our shared values with design and product. However,
-when we make decisions on what and how to do engineering we need guiding principals. Things that make Artsy's
+when we make decisions on what and how to do engineering, we need guiding principles. Things that make Artsy's
 development culture unique and drive us to do great work.
 
 ### Open Source by Default
 
-We consider the data and relationships that make Artsy difficult to copy, code only represents the past and
-close-to present. A code project should start as open, then move to closed if there are valid business needs that
-need to be hidden.
+We consider that it is the data and relationships with the art world what makes Artsy a difficult business to copy.
+Our code only represents ideals of our past and close-to present. A code project should start as open, then move to
+closed if there are valid business needs that require it to be private.
 
-Working in the open allows individual to retain their work and ideas post-Artsy. We can share the exact problem we
-see with others, and provide great high ways to teach by direct reference.
+Working in the open allows individual to retain their work and ideas post-Artsy. We can share the exact problems we
+see with others, and provide great high ways to teach via direct references.
 
-Expectations for OSS apps are different than OSS libs, an app has little-to-no desire for community contributions.
-Instead it's more of a reference tool. Tools and libraries we can build communities around, but most projects don’t
-get large enough for their stewardship to become burdensome.
+Expectations for our OSS _apps_ are different than OSS _libraries_. An app has little-to-no desire for community
+contributions. Instead, it's open as a reference. With tools and libraries we can build communities around, but
+most of our projects don’t get large enough for their stewardship to become burdensome.
 
 - Examples:
 
@@ -72,8 +72,9 @@ trade-offs.
 
 ### Minimal Viable Process
 
-As a team grows, so does the need for processes. Find ways to add process without additional work. Build automated
-tools to help others. Use systems like RFCs to broaden the availability of information on process changes.
+As a team grows, so does the need for processes. Find ways to get the value of process without additional work.
+Build automated tools to help others. Use systems like RFCs to broaden the availability of information on process
+changes.
 
 For meetings over 2-3 people, provide agendas and make as many people optional as possible. We've seen great
 success on automation via documentation for recurring meetings.
@@ -91,9 +92,9 @@ success on automation via documentation for recurring meetings.
   - http://artsy.github.io/blog/2017/09/04/Introducing-Peril/
   - http://artsy.github.io/blog/2018/02/02/artsy-apogee/
 
-### Scale your Impact
+### Leverage Your Impact
 
-We built an outsized reputation for our size as an engineering team via the above principals. This gives the
+We built an outsized reputation for our size as an engineering team via the above principles. This gives the
 ability to move local impact to larger impact.
 
 Consider ways in which you can expand the scope of impact for your time:
@@ -117,10 +118,10 @@ building Artsy.
   - Peer Labs
   - http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/
 
-### De-siloing Engineers
+### De-silo Engineers
 
-Provides people the ability to work in many spaces and not feel blocked by another team. Common languages, common
-terminology and common ideas. There's definitely space for experimentation, but within a shared framework. The aim
+Provide people the ability to work in many spaces and not feel blocked by another team. Common languages, common
+terminology and common idioms. There's definitely space for experimentation, but within a shared framework. The aim
 is not to stifle creativity, but increase individual scope.
 
 - Examples
@@ -135,3 +136,11 @@ is not to stifle creativity, but increase individual scope.
   - https://www.youtube.com/watch?v=hlLhtWLghGA
   - http://artsy.github.io/blog/2017/09/11/DevSwap/
   - http://artsy.github.io/artsy-x-react-native.html
+
+### Build for 10x
+
+[on route]
+
+### Done Means Done
+
+[on route]
