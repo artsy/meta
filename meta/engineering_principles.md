@@ -33,16 +33,18 @@ most of our projects don’t get large enough for their stewardship to become bu
 
 ### Own Your Dependencies
 
-Take the best dependencies to fit your problem and make them better. Rather than try re-invent the wheel, give time
-to take the best dependencies and make them fit into our use cases. We’re not the biggest team, so the most value
-for someone's time can be achieved by writing the glue code between larger projects.
+Take the best dependencies to fit your problem and make them better. Rather than try re-invent the wheel, aim for
+proudly discovered elsewhere. If you can find a way to take a 90% fit, contribute back to get it to 100%. We’re not
+the biggest team, so the most value for someone's time can be achieved by writing the glue code between larger
+projects.
 
 Consider all of the pieces related to your app as being part of your work. E.g. just like you would consider
 working on an API when you're doing front-end work, making sure that React or TypeScript behave like we'd want is
 an important part of product work. It's another part of our stack.
 
-Aim to be a trusted contributor to the communities surrounding your work, communicate clearly, publicly and be
-empathetic to the priorities of others.
+Own doesn't need to mean commit access, but to feel like you can influence the design and execution of all the
+components in your apps. Aim to be a trusted contributor to the communities surrounding your work, communicate
+clearly, publicly and be empathetic to the priorities of others.
 
 - Examples:
 
@@ -94,8 +96,8 @@ success on automation via documentation for recurring meetings.
 
 ### Leverage Your Impact
 
-We built an outsized reputation for our size as an engineering team via the above principles. This gives the
-ability to move local impact to larger impact.
+We built an outsized reputation for our size as an engineering team via the other principles. This gives the
+ability to move local impact to a larger communal impact.
 
 Consider ways in which you can expand the scope of impact for your time:
 
@@ -105,8 +107,7 @@ Consider ways in which you can expand the scope of impact for your time:
 - Documentation on teams and processes could be open for others to reference and learn from
 - A regular meetup could be converted into a franchisable system for others to replicate
 
-The small improvements eventually add up so that you can feel like you're doing industry level work as a part of
-building Artsy.
+The small improvements eventually add up so that you can do industry level work as a part of building Artsy.
 
 - Examples
 
@@ -139,8 +140,20 @@ is not to stifle creativity, but increase individual scope.
 
 ### Build for 10x
 
-[on route]
+A system doesn't live forever, but you should make decisions with a aim to handle 10x the traffic, number of
+contributors and company revenue. Basically a single order of magnitude of growth everywhere. This can help guide
+deciding on technological choices and figuring the trade-offs between feature work and infrastructure needs.
+
+- Further Reading
+  - http://artsy.github.io/blog/2015/12/22/future-fridays/
+  - https://lethain.com/migrations/
 
 ### Done Means Done
 
-[on route]
+Not that when you tell someone it's done that everything is final. More that you can't just throw something over a
+fence, shipping code is one part of an equation but running QA and ensuring stability is just as important. Done
+being done means feeling confident in that you've protected your changes with tests, ensured deployment and feel
+confident in your tools for measuring.
+
+When something is done, it doesn't mean that you'll never need to go back to it, but that going back to it is a new
+project.
