@@ -10,6 +10,10 @@ Hello Artsy employee or curious outsider! This document outlines how to run our 
 
 Read on for more specifics.
 
+## Suggesting a Presenter
+
+Are you an Artsy employee? Do you want to suggest someone to present a Lunch & Learn? Great! Go to the #lunch-and-learn Slack channel and let us know. One of the engineers who helps run Lunch & Learns will handle the referral from there, probably asking you to introduce them to your speaker over email.
+
 ## Handling a Referral
 
 Sometimes you'll get an introduction to a speaker from a colleague, passing the baton to you to organize the actual event. Just follow these steps:
