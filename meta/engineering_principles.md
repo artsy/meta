@@ -162,9 +162,10 @@ re-staff periodically throughout a year.
 
 ### Build for 10x
 
-A system won't live forever, but you should make decisions with a aim to handle 10x the traffic, number of
-contributors and company revenue. Basically a single order of magnitude of growth everywhere. This can help guide
-deciding on technological choices and figuring the trade-offs between feature work and infrastructure needs.
+Technology choices should strive to be "optimal" while avoid over-engineering. When designing systems or evaluating
+scalability and performance, we aim for today's decisions to withstand 10x the traffic, data, or scale. This
+realistic horizon helps us balance the need to move quickly with the sometimes-competing need to invest in
+infrastructure and architecture. It also recognizes that solutions are expected to evolve and be replaced.
 
 - Further Reading
 
