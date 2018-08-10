@@ -19,17 +19,17 @@ most of our projects don’t get large enough for their stewardship to become bu
 
 - Examples:
 
-  - artsy/meta
-  - artsy/force
-  - artsy/eigen
-  - artsy/emission
+  - [artsy/meta][meta]
+  - [artsy/force][force]
+  - [artsy/eigen][eigen]
+  - [artsy/emission][em]
 
 - Further Reading:
 
-  - https://artsy.github.io/series/open-source-by-default/
-  - https://ashfurrow.com/blog/open-source-ideology/
-  - https://code.dblock.org/2015/02/09/becoming-open-source-by-default.html
-  - https://www.objc.io/issues/22-scale/artsy/
+  - [Becoming Open Source by Default](https://code.dblock.org/2015/02/09/becoming-open-source-by-default.html)
+  - Artsy Blog Series - [OSS by Default](https://artsy.github.io/series/open-source-by-default/)
+  - [Open Source Ideology](https://ashfurrow.com/blog/open-source-ideology/)
+  - [iOS at Scale: Artsy](https://www.objc.io/issues/22-scale/artsy/)
 
 ### Own Your Dependencies
 
@@ -48,8 +48,8 @@ clearly, publicly and be empathetic to the priorities of others.
 
 - Examples:
 
-  - Grape
-  - CocoaPods
+  - [Grape](https://github.com/ruby-grape/grape)
+  - [CocoaPods](https://cocoapods.rog)
   - The Artsy Omakase
 
 ### Incremental Revolution
@@ -63,14 +63,31 @@ trade-offs.
 
 - Examples
 
-  - Emission / Reaction
-  - Stitch
-  - Metaphysics
+  - [Emission][em] / [Reaction][rn]
+  - [Stitch](https://github.com/artsy/stitch)
+  - [Metaphysics][mp]
 
 - Further Reading
 
-  - Building a Pod Library http://artsy.github.io/blog/2018/04/17/making-a-components-pod/
-  - http://artsy.github.io/blog/2017/09/05/Modernizing-Force/
+  - [Building a Pod Library](http://artsy.github.io/blog/2018/04/17/making-a-components-pod/)
+  - [Modernizing Force](http://artsy.github.io/blog/2017/09/05/Modernizing-Force/)
+
+### Being Nice is Nice
+
+Behind every piece of code is a human, internal or external to Artsy. Give people the benefit of the doubt and
+always assume positive intent. Take the time to understand why they made a decision before making assumptions.
+Realize that you may come across differently on slack/github than in-person and consider how the person on the
+other side might respond to what you're saying. There's always a nice way to handle a situation, and we strive for
+that.
+
+- Examples
+
+  - [CocoaPods Communication Guidelines](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
+  - [Moya Community Continuity Guidelines](https://github.com/Moya/contributors#moya-community-continuity-guidelines-v200)
+
+- Further Reading
+
+  - [Being Nice is Nice in OSS](https://www.youtube.com/watch?v=cHDcFXXQGX0)
 
 ### Minimal Viable Process
 
@@ -83,26 +100,27 @@ success on automation via documentation for recurring meetings.
 
 - Examples
 
-  - Danger
-  - Peril
-  - RFC Process
-  - artsy/meta
+  - [Danger](http://danger.systems)
+  - [Peril](https://github.com/danger/peril#README)
+  - [RFC Process](https://github.com/artsy/guides/blob/master/guides/RFCs.md)
+  - [Retrospectives](https://github.com/artsy/guides/blob/master/guides/Retrospectives.md#retrospectives)
+  - [artsy/meta](https://github.com/artsy/meta)
 
 - Further Reading
 
-  - http://artsy.github.io/blog/2018/05/25/support-process/
-  - http://artsy.github.io/blog/2017/09/04/Introducing-Peril/
-  - http://artsy.github.io/blog/2018/02/02/artsy-apogee/
+  - [The Artsy Support Process](http://artsy.github.io/blog/2018/05/25/support-process/)
+  - [Introducing Peril to Artsy](http://artsy.github.io/blog/2017/09/04/Introducing-Peril/)
+  - [Artsy Apogee](http://artsy.github.io/blog/2018/02/02/artsy-apogee/)
 
 ### Leverage Your Impact
 
-We built an outsized reputation for our size as an engineering team via the other principles. This gives the
-ability to move local impact to a larger communal impact.
+We built an large reputation for our size as an engineering team via the other principles. This gives internal
+engineers the ability to move local impact to a larger communal impact.
 
 Consider ways in which you can expand the scope of impact for your time:
 
 - Avoid private messaging when you could communicate in a public channel
-- Team presentations could be worked for public consumption
+- Team presentations could be re-worked for public consumption
 - Internal notes could be turned into blog posts
 - Documentation on teams and processes could be open for others to reference and learn from
 - A regular meetup could be converted into a franchisable system for others to replicate
@@ -111,19 +129,23 @@ The small improvements eventually add up so that you can do industry level work 
 
 - Examples
 
-  - Artsy x React Native
-  - JavaScriptures
-  - Learn Swift at Artsy
+  - [Artsy x React Native](http://artsy.github.io/artsy-x-react-native.html)
+  - [JavaScriptures](http://artsy.github.io/series/javascriptures/)
+  - [Learn Swift at Artsy](http://artsy.github.io/series/swift-at-artsy/)
   - Artsy Blog
-  - artsy/meta
-  - Peer Labs
-  - http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/
+  - [artsy/meta][meta]
+  - [Peer Labs](https://peerlab.community)
+  - [Artsy Engineering Compensation Framework](http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/)
 
 ### De-silo Engineers
 
 Provide people the ability to work in many spaces and not feel blocked by another team. Common languages, common
-terminology and common idioms. There's definitely space for experimentation, but within a shared framework. The aim
-is not to stifle creativity, but increase individual scope.
+terminology and common idioms. There's definitely space for experimentation inside a shared framework. The aim here
+is not to stifle creativity, but increase individual scope. By consolidating and de-siloing you can put concentrate
+your efforts into maximizing value for time.
+
+We intentionally try to avoid teams/people to be silo'd from an organizational perspective by allowing ourselves to
+re-staff periodically throughout a year.
 
 - Examples
 
@@ -134,26 +156,34 @@ is not to stifle creativity, but increase individual scope.
   - Dev Swap which switches teams and responsibilities
 
 - Further Reading
-  - https://www.youtube.com/watch?v=hlLhtWLghGA
-  - http://artsy.github.io/blog/2017/09/11/DevSwap/
-  - http://artsy.github.io/artsy-x-react-native.html
+  - [Loosely Held Strong Convictions](https://www.youtube.com/watch?v=hlLhtWLghGA)
+  - [DevSwap: An Experiment in Randomizing Teams](http://artsy.github.io/blog/2017/09/11/DevSwap/)
+  - [Artsy x React Native](http://artsy.github.io/artsy-x-react-native.html)
 
 ### Build for 10x
 
-A system doesn't live forever, but you should make decisions with a aim to handle 10x the traffic, number of
+A system won't live forever, but you should make decisions with a aim to handle 10x the traffic, number of
 contributors and company revenue. Basically a single order of magnitude of growth everywhere. This can help guide
 deciding on technological choices and figuring the trade-offs between feature work and infrastructure needs.
 
 - Further Reading
-  - http://artsy.github.io/blog/2015/12/22/future-fridays/
-  - https://lethain.com/migrations/
+
+  - [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
+  - [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/)
+  - [Productivity in the age of hypergrowth.](https://lethain.com/productivity-in-the-age-of-hypergrowth/)
 
 ### Done Means Done
 
-Not that when you tell someone it's done that everything is final. More that you can't just throw something over a
-fence, shipping code is one part of an equation but running QA and ensuring stability is just as important. Done
-being done means feeling confident in that you've protected your changes with tests, ensured deployment and feel
-confident in your tools for measuring.
+You can't just throw your code over a fence, shipping code is one part of an equation but running QA and ensuring
+stability is just as important. Done being done means feeling confident in that you've protected your changes with
+tests, ensured deployment works and feel confident in your tools for measuring.
 
 When something is done, it doesn't mean that you'll never need to go back to it, but that going back to it is a new
-project.
+project. It's done.
+
+[em]: https://github.com/artsy/emission/
+[rn]: https://github.com/artsy/reaction
+[meta]: https://github.com/artsy/meta
+[force]: https://github.com/artsy/force
+[eigen]: https://github.com/artsy/eigen
+[mp]: https://github.com/artsy/metaphysics
