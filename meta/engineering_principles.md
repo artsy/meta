@@ -6,8 +6,8 @@ development culture unique and drive us to do great work.
 
 ### Open Source by Default
 
-We consider that it is the data and relationships with the art world what makes Artsy a difficult business to copy.
-Our code only represents ideals of our past and close-to present. A code project should start as open, then move to
+We consider that our data and relationships with the art world makes Artsy a difficult business to copy. Our source
+code only represents ideals of our past and close-to present. A code project should start as open, then move to
 closed if there are valid business needs that require it to be private.
 
 Working in the open allows individual to retain their work and ideas post-Artsy. We can share the exact problems we
@@ -33,10 +33,10 @@ most of our projects don’t get large enough for their stewardship to become bu
 
 ### Own Your Dependencies
 
-Take the best dependencies to fit your problem and make them better. Rather than try re-invent the wheel, aim for
-proudly discovered elsewhere. If you can find a way to take a 90% fit, contribute back to get it to 100%. We’re not
-the biggest team, so the most value for someone's time can be achieved by writing the glue code between larger
-projects.
+Take the dependencies which fit your problem and make them better. Rather than try re-invent the wheel, aim for
+proudly discovered elsewhere. If there's no perfect match, take a 90% fit and contribute back to get it to 100%.
+We’re not the biggest team, so the most leverage for someone's time can be achieved by writing the glue code
+between larger projects.
 
 Consider all of the pieces related to your app as being part of your work. E.g. just like you would consider
 working on an API when you're doing front-end work, making sure that React or TypeScript behave like we'd want is
@@ -45,6 +45,10 @@ an important part of product work. It's another part of our stack.
 Own doesn't need to mean commit access, but to feel like you can influence the design and execution of all the
 components in your apps. Aim to be a trusted contributor to the communities surrounding your work, communicate
 clearly, publicly and be empathetic to the priorities of others.
+
+A dependency doesn't have to be external, we want to encourage an OSS-style workflow where you should feel able to
+contribute to any repo in Artsy to get your work done. If it's hard to set up, pair with someone who knows and
+improve the repo's docs.
 
 - Examples:
 
@@ -63,9 +67,9 @@ trade-offs.
 
 - Examples
 
-  - [Emission][em] / [Reaction][rn]
-  - [Stitch](https://github.com/artsy/stitch)
-  - [Metaphysics][mp]
+  - [Emission][em] / [Reaction][rn] (React component libraries for integration in other projects)
+  - [Stitch](https://github.com/artsy/stitch) (A way to incrementally add React to web-apps)
+  - [Metaphysics][mp] (Our GraphQL API which encapsulates and expands Artsy's APIs)
 
 - Further Reading
 
@@ -76,7 +80,7 @@ trade-offs.
 
 Behind every piece of code is a human, internal or external to Artsy. Give people the benefit of the doubt and
 always assume positive intent. Take the time to understand why they made a decision before making assumptions.
-Realize that you may come across differently on slack/github than in-person and consider how the person on the
+Realize that you may come across differently on Slack/GitHub than in-person and consider how the person on the
 other side might respond to what you're saying. There's always a nice way to handle a situation, and we strive for
 that.
 
@@ -92,8 +96,8 @@ that.
 ### Minimal Viable Process
 
 As a team grows, so does the need for processes. Find ways to get the value of process without additional work.
-Build automated tools to help others. Use systems like RFCs to broaden the availability of information on process
-changes.
+Build automated tools to help others feel in the loop. Use systems like RFCs to broaden the availability of
+information on process changes.
 
 For meetings over 2-3 people, provide agendas and make as many people optional as possible. We've seen great
 success on automation via documentation for recurring meetings.
@@ -114,25 +118,25 @@ success on automation via documentation for recurring meetings.
 
 ### Leverage Your Impact
 
-We built an large reputation for our size as an engineering team via the other principles. This gives internal
+We built an large reputation for our size as an engineering team via these principles. This gives internal
 engineers the ability to move local impact to a larger communal impact.
 
 Consider ways in which you can expand the scope of impact for your time:
 
-- Avoid private messaging when you could communicate in a public channel
+- Avoid private messaging when you could communicate in a relevant public channel
 - Team presentations could be re-worked for public consumption
 - Internal notes could be turned into blog posts
 - Documentation on teams and processes could be open for others to reference and learn from
 - A regular meetup could be converted into a franchisable system for others to replicate
 
-The small improvements eventually add up so that you can do industry level work as a part of building Artsy.
+The small improvements eventually add up so that you can do industry-impact work as a part of building Artsy.
 
 - Examples
 
   - [Artsy x React Native](http://artsy.github.io/artsy-x-react-native.html)
   - [JavaScriptures](http://artsy.github.io/series/javascriptures/)
   - [Learn Swift at Artsy](http://artsy.github.io/series/swift-at-artsy/)
-  - Artsy Blog
+  - [The Artsy Engineering Blog](http://artsy.github.io/blog/)
   - [artsy/meta][meta]
   - [Peer Labs](https://peerlab.community)
   - [Artsy Engineering Compensation Framework](http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/)
@@ -144,8 +148,12 @@ terminology and common idioms. There's definitely space for experimentation insi
 is not to stifle creativity, but increase individual scope. By consolidating and de-siloing you can put concentrate
 your efforts into maximizing value for time.
 
-We intentionally try to avoid teams/people to be silo'd from an organizational perspective by allowing ourselves to
+We intentionally try to avoid teams/people being silo'd from an organizational perspective by allowing ourselves to
 re-staff periodically throughout a year.
+
+One important aspect of de-siloing is to help make hard things easy with tooling, on the platform side this comes
+in the form of continuous deployment/integration and consolidated devops infrastructure. For front-end projects,
+that is aiming for systemic consistency and tooling.
 
 - Examples
 
@@ -175,14 +183,24 @@ infrastructure and architecture. It also recognizes that solutions are expected 
 
 ### Done Means Done
 
-You can't just throw your code over a fence, shipping code is one part of an equation but running QA and ensuring
-stability is just as important. Done being done means feeling confident in that you've protected your changes with
-tests, ensured deployment works and feel confident in your tools for measuring.
+We take responsibility for not just implementing the defined work but ensuring it's the right work, delivered all
+the way to [and understood by] the end consumer, instrumented, tested, and confirmed to behave as expected in
+production. This means we document, deploy, and monitor our changes. It's "done" when we can comfortably put it out
+of our minds and move on to new work.
 
 When something is done, it doesn't mean that you'll never need to go back to it, but that going back to it is a new
-project. It's done.
+project.
 
-[em]: https://github.com/artsy/emission/
+### Order Matters
+
+The way in which we timeline projects can affect downstream dependencies. Being thoughtful in your initial steps
+can de-risk projects, expose mistaken assumptions, surface feedback, and create opportunities for reuse or other
+compounding benefits.
+
+Aim to get the minimum slice of your working product out as quickly as possible making it possible for feedback
+across the org.
+
+[em]: https://github.com/artsy/emission
 [rn]: https://github.com/artsy/reaction
 [meta]: https://github.com/artsy/meta
 [force]: https://github.com/artsy/force
